@@ -1,0 +1,10 @@
+<goml height="fit">
+  <scene>
+    <camera>
+      <camera.components>
+        <MouseCameraControl/>
+      </camera.components>
+    </camera>
+    <mesh color="red"/>
+  </scene>
+</goml>
